@@ -1,0 +1,28 @@
+// Seaweed Theme (Blue/Green)
+
+:root.Clu-Seaweed {
+    --main-color: #34a1c3;
+    --main-secondary-color: #34a1ff;
+    --background-color: #10141f;
+    --background-dark-color: #094841;
+    --background-light-color: #151d28;
+    --placeholder-color: #efbd5e;
+    --text-color: #efbd5e;
+    --text-light-highlight-color: #a27a2d;
+    --text-dark-highlight-color: #2bbc9f;
+    --button-color: #2bbc9f;
+    --button-hover-color: #10141f;
+    --button-hover-background-color: #165489;
+    --you-color: #094841;
+    --you-background-color: #2bbc9f;
+    --promoted-color: #a27a2d;
+    --promoted-background-color: #094841;
+    --eta-best: #adf7b6;
+    --eta-mid: #efbf5e;
+    --eta-worst: #ffc09f;
+    --header-color: #34a1c3;
+    --navbar-color: #102d51;
+    --offcanvas-background-color: #141d28;
+    --link-hover-color: #3c5e8b;
+    --link-color: #b88b36;
+}
