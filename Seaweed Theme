@@ -1,5 +1,3 @@
-// Seaweed Theme (Blue/Green)
-
 :root.Clu-Seaweed {
     --main-color: #34a1c3;
     --main-secondary-color: #34a1ff;
