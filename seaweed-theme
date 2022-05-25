@@ -4,14 +4,13 @@
     --c-two: #04471C;
     --c-three: #058C42
     --c-four: #16DB65
-    --c-five:
-    --c-six: #020202;
+    --c-five: #020202;
 
     --main-color: var(--c-one);
     --main-secondary-color: var(--c-two);
-    --background-color: var(--c-six);
-    --background-dark-color: var(--c-six);
-    --background-light-color: var(--c-six);
+    --background-color: var(--c-five);
+    --background-dark-color: var(--c-five);
+    --background-light-color: var(--c-five);
     --placeholder-color: var(--c-one);
     --item-selected-color: var(--c-four);
     --eta-best: #FF6201;
@@ -23,13 +22,13 @@
     --button-color: var(--c-one);
     --button-hover-color: var(--c-two);
     --button-hover-background-color: var(--c-three);
-    --you-color: var(--c-six);
+    --you-color: var(--c-five);
     --you-background-color: var(--c-four);
     --promoted-color: var(--c-three);
     --promoted-background-color: var(--c-two);
-    --header-color: var(--c-six);
-    --navbar-color: var(--c-six);
-    --offcanvas-background-color: var(--c-six);
+    --header-color: var(--c-five);
+    --navbar-color: var(--c-five);
+    --offcanvas-background-color: var(--c-five);
     --link-hover-color: var(--c-three);
     --link-color: var(--c-three);
 }
