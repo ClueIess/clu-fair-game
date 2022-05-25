@@ -1,4 +1,4 @@
-:root.Seaweed {
+:root.seaweed {
     --main-color: #34a1c3;
     --main-secondary-color: #34a1ff;
     --background-color: #10141f;
