@@ -1,34 +1,34 @@
 :root.seaweed {
 
-    --c-one: #0D2818;
-    --c-two: #04471C;
-    --c-three: #058C42
-    --c-four: #16DB65
-    --c-five: #020202;
+    --colourone: #0D2818;
+    --colourtwo: #04471C;
+    --colourthree: #058C42;
+    --colourfour: #16DB65;
+    --colourfive: #020202;
 
-    --main-color: var(--c-one);
-    --main-secondary-color: var(--c-two);
-    --background-color: var(--c-five);
-    --background-dark-color: var(--c-five);
-    --background-light-color: var(--c-five);
-    --placeholder-color: var(--c-one);
-    --item-selected-color: var(--c-four);
+    --main-color: var(--colourone);
+    --main-secondary-color: var(--colourtwo);
+    --background-color: var(--colourfive);
+    --background-dark-color: var(--colourfive);
+    --background-light-color: var(--colourfive);
+    --placeholder-color: var(--colourone);
+    --item-selected-color: var(--colourfour);
     --eta-best: #FF6201;
     --eta-mid: #F3B700;
-    --eta-worst: var(--c-three);
-    --text-color: var(--c-three);
-    --text-light-highlight-color: var(--c-four);
-    --text-dark-highlight-color: var(--c-two);
-    --button-color: var(--c-one);
-    --button-hover-color: var(--c-two);
-    --button-hover-background-color: var(--c-three);
-    --you-color: var(--c-five);
-    --you-background-color: var(--c-four);
-    --promoted-color: var(--c-three);
-    --promoted-background-color: var(--c-two);
-    --header-color: var(--c-five);
-    --navbar-color: var(--c-five);
-    --offcanvas-background-color: var(--c-five);
-    --link-hover-color: var(--c-three);
-    --link-color: var(--c-three);
+    --eta-worst: var(--colourthree);
+    --text-color: var(--colourthree);
+    --text-light-highlight-color: var(--colourfour);
+    --text-dark-highlight-color: var(--colourtwo);
+    --button-color: var(--colourone);
+    --button-hover-color: var(--colourtwo);
+    --button-hover-background-color: var(--colourthree);
+    --you-color: var(--colourfive);
+    --you-background-color: var(--colourfour);
+    --promoted-color: var(--colourthree);
+    --promoted-background-color: var(--colourtwo);
+    --header-color: var(--colourfive);
+    --navbar-color: var(--colourfive);
+    --offcanvas-background-color: var(--colourfive);
+    --link-hover-color: var(--colourthree);
+    --link-color: var(--colourthree);
 }
