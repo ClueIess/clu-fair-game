@@ -40,7 +40,7 @@
 :root.seaweed .col-6 {
     width: 110%;
 }
-:root.beached {
+:root.experimental {
     --colourone: #1f088f;
     --colourtwo: #e4ff00;
     --colourthree: #7b7c10;
