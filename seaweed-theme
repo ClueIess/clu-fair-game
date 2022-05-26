@@ -1,31 +1,32 @@
 :root.seaweed {
 
-    --colourone: #0D2818;
-    --colourtwo: #04471C;
-    --colourthree: #058C42;
-    --colourfour: #16DB65;
-    --colourfive: #011936;
-
+    --colourone: #008e24;
+    --colourtwo: #a9ce00;
+    --colourthree: #e3e2c2;
+    --colourfour: #467c04;
+    --colourfive: #000115;
+    --coloursix: #008e2445;
+    
     --main-color: var(--colourone);
     --main-secondary-color: var(--colourtwo);
     --background-color: var(--colourfive);
     --background-dark-color: var(--colourfive);
     --background-light-color: var(--colourfive);
-    --placeholder-color: var(--colourone);
+    --placeholder-color: var(--colourthree);
     --item-selected-color: var(--colourfour);
-    --eta-best: #FF6201;
+    --eta-best: var(--colourthree);
     --eta-mid: #F3B700;
-    --eta-worst: var(--colourthree);
+    --eta-worst: #ff6201;
     --text-color: var(--colourthree);
-    --text-light-highlight-color: var(--colourfour);
+    --text-light-highlight-color: var(--colourtwo);
     --text-dark-highlight-color: var(--colourtwo);
     --button-color: var(--colourone);
-    --button-hover-color: var(--colourtwo);
-    --button-hover-background-color: var(--colourthree);
+    --button-hover-color: var(--colourthree);
+    --button-hover-background-color: var(--coloursix);
     --you-color: var(--colourfive);
     --you-background-color: var(--colourfour);
     --promoted-color: var(--colourthree);
-    --promoted-background-color: var(--colourtwo);
+    --promoted-background-color: var(--coloursix);
     --header-color: var(--colourfive);
     --navbar-color: var(--colourfive);
     --offcanvas-background-color: var(--colourfive);
