@@ -49,13 +49,13 @@
 :root.experimental .col-7 {
     width: 100%;
     overflow-y: hidden;
-    min-height: 40cm;
+    min-height: 20cm;
 }
 :root.experimental .col-5 {
     width: 100%;
     margin-top: 75rem;
     overflow-y: hidden;
-    min-height: 40cm;
+    min-height: 20cm;
 }
 :root.experimental .ladder-row[data-v-30451f7e] {
     height: 100%;
