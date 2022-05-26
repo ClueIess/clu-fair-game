@@ -33,3 +33,7 @@
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
 }
+:root.seaweed .ladder-row[data-v-30451f7e] {
+    height: 80%;
+    max-height: 80%;
+}
