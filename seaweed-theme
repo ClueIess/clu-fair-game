@@ -41,35 +41,17 @@
     width: 110%;
 }
 :root.experimental {
-    --colourone: #1f088f;
-    --colourtwo: #e4ff00;
-    --colourthree: #7b7c10;
-    --colourfour: #cfd802;
-    --colourfive: #8abdd0;
-    --coloursix: #1f088f50;
-    --main-color: var(--colourone);
-    --main-secondary-color: var(--colourtwo);
-    --background-color: var(--colourfive);
-    --background-dark-color: var(--colourfive);
-    --background-light-color: var(--colourfive);
-    --placeholder-color: var(--colourthree);
-    --item-selected-color: var(--colourfour);
-    --eta-best: var(--colourthree);
-    --eta-mid: #dc8806;
-    --eta-worst: #ff0101;
-    --text-color: var(--colourthree);
-    --text-light-highlight-color: var(--colourtwo);
-    --text-dark-highlight-color: var(--colourtwo);
-    --button-color: var(--colourone);
-    --button-hover-color: var(--colourthree);
-    --button-hover-background-color: var(--coloursix);
-    --you-color: var(--colourthree);
-    --you-background-color: var(--colourfour);
-    --promoted-color: var(--colourthree);
-    --promoted-background-color: var(--coloursix);
-    --header-color: var(--colourfive);
-    --navbar-color: var(--colourfive);
-    --offcanvas-background-color: var(--colourfive);
-    --link-hover-color: var(--colourthree);
-    --link-color: var(--colourthree);
+
+}
+:root.experimental .game-view div[data-v-2987427e] {
+    overflow-y: scroll;
+}
+:root.experimental .col-7 {
+    width: 1;
+    overflow-y: hidden;
+}
+:root.experimental .col-5 {
+    width: 1;
+    margin-top: 75rem;
+    overflow-y: hidden;
 }
