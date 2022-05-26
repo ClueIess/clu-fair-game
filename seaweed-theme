@@ -47,13 +47,13 @@
     overflow-y: scroll;
 }
 :root.experimental .col-7 {
-    width: 100%;
+    width: 90%;
     overflow-y: hidden;
     min-height: 20cm;
 }
 :root.experimental .col-5 {
-    width: 100%;
-    margin-top: 75rem;
+    width: 90%;
+    margin-top: 0.5rem;
     overflow-y: hidden;
     min-height: 20cm;
 }
