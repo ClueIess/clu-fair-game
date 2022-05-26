@@ -47,11 +47,11 @@
     overflow-y: scroll;
 }
 :root.experimental .col-7 {
-    width: 1;
+    width: 100%;
     overflow-y: hidden;
 }
 :root.experimental .col-5 {
-    width: 1;
+    width: 100%;
     margin-top: 75rem;
     overflow-y: hidden;
 }
