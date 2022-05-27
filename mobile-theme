@@ -4,7 +4,7 @@
 :root.mobile .col-7 {
     width: 90%;
     overflow-y: hidden;
-    zoom: 0.65;
+    zoom: 0.58;
 }
 :root.mobile .col-5 {
     width: 90%;
