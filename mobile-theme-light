@@ -15,6 +15,9 @@
 :root.mobile-light body {
     overflow-y: visible;
 }
+:root.mobile-light .mentionDropdown[data-v-1919e37b] {
+    bottom: -73%;
+}
 :root.mobile-light {
     --main-color: #151d28;
     --main-secondary-color: #090a14;
