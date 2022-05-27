@@ -1,17 +1,17 @@
-:root.mobile {
+:root.mobile-dark {
 
 }
-:root.mobile .col-7 {
+:root.mobile-dark .col-7 {
     width: 90%;
     overflow-y: hidden;
     zoom: 0.58;
 }
-:root.mobile .col-5 {
+:root.mobile-dark .col-5 {
     width: 90%;
     overflow-y: hidden;
     max-height: 100%;
     zoom: 0.65;
 }
-:root.mobile body {
+:root.mobile-dark body {
     overflow-y: visible;
 }
