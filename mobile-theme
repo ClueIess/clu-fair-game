@@ -4,14 +4,12 @@
 :root.mobile .col-7 {
     width: 90%;
     overflow-y: hidden;
-    max-height: 20cm;
     zoom: 0.65;
 }
 :root.mobile .col-5 {
     width: 90%;
-    margin-top: 0.5rem;
     overflow-y: hidden;
-    min-height: 25cm;
+    max-height: 100%;
     zoom: 0.65;
 }
 :root.mobile body {
