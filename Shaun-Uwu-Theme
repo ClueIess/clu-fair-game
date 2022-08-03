@@ -10,7 +10,7 @@
     --eta-best: white;
     --eta-mid: darkgray;
     --eta-worst: gray;
-    --text-color: white;
+    --text-color: royalblue;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
     --text-error-color: var(--placeholder-color);
@@ -55,7 +55,4 @@
 :root.ladder-row[data-v-286006ac] {
     height: 80%;
     max-height: 80%;
-}
-:root.shaunuwu .col-6 {
-    width: 110%;
 }
