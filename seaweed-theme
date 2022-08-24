@@ -33,9 +33,9 @@
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
 }
-:root.ladder-row[data-v-286006ac] {
-    height: 80%;
-    max-height: 80%;
+:root.seaweed .ladder-row[data-v-286006ac] {
+    height: 75%;
+    max-height: 75%;
 }
 :root.seaweed .col-6 {
     width: 110%;
