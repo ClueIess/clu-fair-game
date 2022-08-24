@@ -1,0 +1,42 @@
+:root.polarity {
+
+    --colourone: #1a92cc;
+    --colourtwo: #aff3f5;
+    --colourthree: #f1e9e9;
+    --colourfour: #f36060;
+    --colourfive: #000218;
+    --coloursix: #008e6d50;
+    
+    --main-color: var(--colourone);
+    --main-secondary-color: var(--colourtwo);
+    --background-color: var(--colourfive);
+    --background-dark-color: var(--colourfive);
+    --background-light-color: var(--colourfive);
+    --placeholder-color: var(--colourthree);
+    --item-selected-color: var(--colourfour);
+    --eta-best: var(--colourthree);
+    --eta-mid: #f6e21f;
+    --eta-worst: #d10417;
+    --text-color: var(--colourthree);
+    --text-light-highlight-color: var(--colourtwo);
+    --text-dark-highlight-color: var(--colourtwo);
+    --button-color: var(--colourone);
+    --button-hover-color: var(--colourthree);
+    --button-hover-background-color: var(--coloursix);
+    --you-color: var(--colourfive);
+    --you-background-color: var(--colourfour);
+    --promoted-color: var(--colourthree);
+    --promoted-background-color: var(--coloursix);
+    --header-color: var(--colourfive);
+    --navbar-color: var(--colourfive);
+    --offcanvas-background-color: var(--colourfive);
+    --link-hover-color: var(--colourthree);
+    --link-color: var(--colourthree);
+}
+:root.polarity .ladder-row[data-v-286006ac] {
+    height: 80%;
+    max-height: 80%;
+}
+:root.polarity .col-6 {
+    width: 110%;
+}
