@@ -34,11 +34,11 @@
     --link-color: var(--colourthree);
 }
 :root.seaweed .ladder-row[data-v-286006ac] {
-    height: 75%;
-    max-height: 75%;
+    height: 70%;
+    max-height: 70%;
 }
 :root.seaweed .col-6.tempInfo[data-v-260edd08] {
-    margin-top: -8%;
+    margin-top: -15%;
     margin-left: 35%;
     margin-bottom: -10%;
 }
