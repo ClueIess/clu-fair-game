@@ -37,6 +37,11 @@
     height: 70%;
     max-height: 70%;
 }
+:root.polarity .col-6.tempInfo[data-v-260edd08] {
+    margin-top: -15%;
+    margin-left: 35%;
+    margin-bottom: -10%;
+}
 :root.polarity .col-6 {
     width: 110%;
 }
