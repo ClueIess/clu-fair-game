@@ -27,7 +27,7 @@
     --you-background-color: var(--colourfour);
     --promoted-color: var(--colourthree);
     --promoted-background-color: var(--coloursix);
-    --header-color: var(--colourfive);
+    --header-color: var(--colourone);
     --navbar-color: var(--colourfive);
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
