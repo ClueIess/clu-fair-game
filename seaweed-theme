@@ -38,8 +38,9 @@
     max-height: 75%;
 }
 :root.seaweed .col-6.tempInfo[data-v-260edd08] {
-    margin-top: -170px;
-    margin-left: 450px;
+    margin-top: -8%;
+    margin-left: 35%;
+    margin-bottom: -10%;
 }
 :root.seaweed .col-6 {
     width: 110%;
