@@ -1,7 +1,7 @@
 :root.jellyfish-reef {
-    --colourone: #88279f;
+    --colourone: #c63469;
     --colourtwo: #ffffff;
-    --colourthree: #1e1d42;
+    --colourthree: #ffffff;
     --colourfour: #9f1691ba;
     --colourfive: #74dede;
     --coloursix: #0e008e50;
@@ -30,6 +30,7 @@
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
+    --bs-body-font-weight: 500;
 }
 :root.jellyfish-reef .ladder-row[data-v-286006ac] {
     height: 70%;
