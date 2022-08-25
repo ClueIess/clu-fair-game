@@ -1,4 +1,4 @@
-// Changing Font, Normal Cursor and Background Image
+# Changing Font, Normal Cursor and Background Image
 :root.experimental body {
     font-family: 'Consolas', sans-serif;
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur269.cur"), auto;
@@ -6,11 +6,11 @@
     background-image: url('https://fauux.neocities.org/bg205.gif');
     background-blend-mode: screen;
 }
-// Hover over link Cursor
+# Hover over link Cursor
 :root.experimental a {
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur272.cur"), auto;
 }
-// Hover over Button Cursor
+# Hover over Button Cursor
 :root.experimental .btn,
 :root.experimental a {
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur266.cur"), auto;
