@@ -3,12 +3,12 @@
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur269.cur"), auto;
     opacity: 1;
     background-image: url("https://i.imgur.com/u4Bhut9.gif");
-    background-blend-mode: screen;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 :root.experimental a {
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur272.cur"), auto;
 }
-:root.experimental .btn,
-:root.experimental a {
+:root.experimental .btn{
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur266.cur"), auto;
 }
