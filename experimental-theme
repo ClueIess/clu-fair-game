@@ -2,7 +2,7 @@
     font-family: 'Consolas', sans-serif;
     cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur269.cur"), auto;
     opacity: 1;
-    background-image: url('https://fauux.neocities.org/bg205.gif');
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b7cc5ad-b4ec-484a-8d4e-7f01cb735129/db5wfuy-5799f372-069a-4564-8bed-b775e8550aec.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBiN2NjNWFkLWI0ZWMtNDg0YS04ZDRlLTdmMDFjYjczNTEyOVwvZGI1d2Z1eS01Nzk5ZjM3Mi0wNjlhLTQ1NjQtOGJlZC1iNzc1ZTg1NTBhZWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uZP3FDVtxLL_gMHjcq_mRATlvC-Db_oxs5hhnkr0nDw');
     background-blend-mode: screen;
 }
 :root.experimental a {
