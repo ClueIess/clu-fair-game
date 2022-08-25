@@ -1,0 +1,50 @@
+:root.jellyfish-reef {
+    --colourone: #88279f;
+    --colourtwo: #ffffff;
+    --colourthree: #1e1d42;
+    --colourfour: #9f1691ba;
+    --colourfive: #74dede;
+    --coloursix: #0e008e50;
+    --main-color: var(--colourone);
+    --main-secondary-color: var(--colourtwo);
+    --background-color: var(--colourfive);
+    --background-dark-color: var(--colourfive);
+    --background-light-color: var(--colourfive);
+    --placeholder-color: var(--colourthree);
+    --item-selected-color: var(--colourfour);
+    --eta-best: var(--colourthree);
+    --eta-mid: #F3B700;
+    --eta-worst: #ff6201;
+    --text-color: var(--colourthree);
+    --text-light-highlight-color: var(--colourtwo);
+    --text-dark-highlight-color: var(--colourtwo);
+    --button-color: var(--colourone);
+    --button-hover-color: var(--colourthree);
+    --button-hover-background-color: var(--coloursix);
+    --you-color: var(--colourfive);
+    --you-background-color: var(--colourfour);
+    --promoted-color: var(--colourthree);
+    --promoted-background-color: var(--coloursix);
+    --header-color: var(--colourone);
+    --navbar-color: var(--colourfive);
+    --offcanvas-background-color: var(--colourfive);
+    --link-hover-color: var(--colourthree);
+    --link-color: var(--colourthree);
+}
+:root.jellyfish-reef .ladder-row[data-v-286006ac] {
+    height: 70%;
+    max-height: 70%;
+}
+:root.jellyfish-reef .col-6.tempInfo[data-v-260edd08] {
+    margin-top: -15%;
+    margin-left: 35%;
+    margin-bottom: -10%;
+}
+:root.jellyfish-reef .col-6 {
+    width: 110%;
+}
+:root.jellyfish-reef body {
+    background-image: url("https://i.imgur.com/u4Bhut9.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
