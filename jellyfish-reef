@@ -50,3 +50,6 @@
     background-repeat: no-repeat;
     text-shadow: 1px 1px 5px black;
 }
+:root.jellyfish-reef .btn {
+    text-shadow: 1px 1px 5px black;
+}
