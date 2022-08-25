@@ -33,7 +33,7 @@
     --bs-body-font-weight: 500;
 }
 :root.jellyfish-reef .ladder-row[data-v-286006ac] {
-    height: 70%;
+    height: 68%;
     max-height: 70%;
 }
 :root.jellyfish-reef .col-6.tempInfo[data-v-260edd08] {
@@ -46,10 +46,11 @@
 }
 :root.jellyfish-reef body {
     background-image: url("https://i.imgur.com/u4Bhut9.gif");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     text-shadow: 1px 1px 5px black;
 }
 :root.jellyfish-reef .btn {
     text-shadow: 1px 1px 5px black;
+    background-color: #c5346966;
 }
