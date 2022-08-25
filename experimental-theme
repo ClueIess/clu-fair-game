@@ -5,3 +5,6 @@
     background-image: url('https://fauux.neocities.org/bg205.gif');
     background-blend-mode: screen;
 }
+:root.experimental a {
+    cursor: url("https://fauux.neocities.org/cursor2.gif"), auto;
+}
