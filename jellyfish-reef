@@ -20,7 +20,7 @@
     --text-dark-highlight-color: var(--colourtwo);
     --button-color: var(--colourone);
     --button-hover-color: var(--colourthree);
-    --button-hover-background-color: var(--coloursix);
+    --button-hover-background-color: #c63469cc;
     --you-color: var(--colourfive);
     --you-background-color: var(--colourfour);
     --promoted-color: var(--colourthree);
@@ -56,4 +56,7 @@
 }
 :root.jellyfish-reef .relative[data-v-6bca8f8a] {
     background-color: #ffffff21;
+}
+:root.jellyfish-reef .option-section[data-v-87f35b2c] {
+    background-color: #ffffffaa;
 }
