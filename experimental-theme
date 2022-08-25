@@ -1,10 +1,10 @@
 :root.experimental body {
     font-family: 'Consolas', sans-serif;
-    cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
+    cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur269.cur"), auto;
     opacity: 1;
     background-image: url('https://fauux.neocities.org/bg205.gif');
     background-blend-mode: screen;
 }
 :root.experimental a {
-    cursor: url("https://fauux.neocities.org/cursor2.gif"), auto;
+    cursor: url("https://cur.cursors-4u.net/cursors/cur-9/cur272.cur"), auto;
 }
