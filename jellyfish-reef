@@ -54,3 +54,6 @@
     text-shadow: 1px 1px 5px black;
     background-color: #c5346966;
 }
+:root.jellyfish-reef .relative[data-v-6bca8f8a] {
+    background-color: #ffffff21;
+}
