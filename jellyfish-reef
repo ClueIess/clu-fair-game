@@ -54,7 +54,7 @@
     text-shadow: 1px 1px 5px black;
     background-color: #c5346966;
 }
-:root.jellyfish-reef .relative[data-v-6bca8f8a] {
+:root.jellyfish-reef #chatInput[data-v-6bca8f8a] { {
     background-color: #ffffff21;
 }
 :root.jellyfish-reef .option-section[data-v-87f35b2c] {
