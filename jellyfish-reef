@@ -3,7 +3,7 @@
     --colourtwo: #ffffff;
     --colourthree: #ffffff;
     --colourfour: #9f1691ba;
-    --colourfive: #74dede;
+    --colourfive: #74dededd;
     --coloursix: #0e008e50;
     --main-color: var(--colourone);
     --main-secondary-color: var(--colourtwo);
@@ -26,7 +26,7 @@
     --promoted-color: var(--colourthree);
     --promoted-background-color: var(--coloursix);
     --header-color: var(--colourone);
-    --navbar-color: var(--colourfive);
+    --navbar-color: #59e7e7dd;
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
@@ -48,10 +48,10 @@
     background-image: url("https://i.imgur.com/u4Bhut9.gif");
     background-size: cover;
     background-repeat: no-repeat;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 0px 0px 5px #83c0ce;
 }
 :root.jellyfish-reef .btn {
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 0px 0px 5px #83c0ce;
     background-color: #c5346966;
 }
 :root.jellyfish-reef .option-section[data-v-87f35b2c] {
