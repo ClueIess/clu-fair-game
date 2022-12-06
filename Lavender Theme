@@ -32,7 +32,8 @@
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
-    
+}
+:root.lavender .body {
     font-weight: 500;
 }
 :root.lavender .ladder-row[data-v-b13887f0] {
