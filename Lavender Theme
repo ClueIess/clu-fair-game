@@ -34,8 +34,8 @@
     --link-color: var(--colourthree);
 }
 :root.lavender body {
-    font-weight: 500;
-    text-shadow: 0px 1px 0px #000000
+    font-weight: 750;
+    font-family: 'Calibri';
 }
 :root.lavender .ladder-row[data-v-b13887f0] {
     height: 97%;
