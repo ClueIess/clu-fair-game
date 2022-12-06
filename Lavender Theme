@@ -38,13 +38,13 @@
     max-height: 75%;
 }
 :root.lavender .chat-content[data-v-b159dd4a] {
-    padding-left: 10cm;
+    padding-left: 100%;
 }
 :root.lavender .dropdown-pagination[data-v-b159dd4a] {
-    padding-left: 10cm;
+    padding-left: 100%;
 }
 :root.lavender .py-3 {
-    padding-left: 10cm;
+    padding-left: 100%;
 }
 :root.lavender .col-6.tempInfo[data-v-260edd08] {
     margin-top: -15%;
