@@ -3,7 +3,7 @@
     --colourone: #390f4c;
     --colourtwo: #893ea6;
     --colourthree: #37220d;
-    --colourfour: #e09c64;
+    --colourfour: #545454;
     --colourfive: #e3d2e6;
     --coloursix: #c145d950;
     
@@ -15,8 +15,8 @@
     --placeholder-color: var(--colourthree);
     --item-selected-color: var(--colourfour);
     --eta-best: var(--colourthree);
-    --eta-mid: #f6e21f;
-    --eta-worst: #d10417;
+    --eta-mid: #9e9324;
+    --eta-worst: #b6333f;
     --text-color: var(--colourthree);
     --text-light-highlight-color: var(--colourtwo);
     --text-dark-highlight-color: var(--colourfour);
@@ -35,6 +35,7 @@
 }
 :root.lavender body {
     font-weight: 500;
+    text-shadow: 0px 1px 0px #000000
 }
 :root.lavender .ladder-row[data-v-b13887f0] {
     height: 97%;
