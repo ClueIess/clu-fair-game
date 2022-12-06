@@ -1,11 +1,11 @@
 :root.lavender {
 
-    --colourone: #1a92cc;
-    --colourtwo: #aff3f5;
-    --colourthree: #f1e9e9;
-    --colourfour: #f36060;
-    --colourfive: #000218;
-    --coloursix: #008e6d50;
+    --colourone: #390f4c;
+    --colourtwo: #893ea6;
+    --colourthree: #37220d;
+    --colourfour: #e09c64;
+    --colourfive: #e3d2e6;
+    --coloursix: #c145d950;
     
     --main-color: var(--colourone);
     --main-secondary-color: var(--colourtwo);
