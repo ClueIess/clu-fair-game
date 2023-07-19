@@ -1,13 +1,12 @@
 :root.newtheme {
-  --colourone: # ;
-  --colourtwo: # ;
-  --colourthree: # ;
+  --colourone: #ffffff ;
+  --colourtwo: #eeeeee ;
+  --colourthree: #bbbbbb ;
   --colourfour: # ;
   --colourfive: # ;
   --coloursix: # ;
   --colourseven: # ;
 
-  // Colors
   --main-color: var(--colourone);
   --main-secondary-color: var(--colourtwo);
   --background-color: var(--colourthree);
@@ -15,15 +14,12 @@
   --background-light-color: #fb00ce;
   --item-selected-color: #fb00ce;
 
-  // Text
-  --text-font-size: 16px;
   --text-color: #fb00ce;
   --text-light-highlight-color: #fb00ce;
   --text-dark-highlight-color: #fb00ce;
   --text-placeholder-color: #fb00ce;
   --text-error-color: #fb00ce;
 
-  // Buttons
   --button-bg-color: #fb00ce;
   --button-bg-hover-color: #fb00ce;
   --button-bg-selected-color: #fb00ce;
@@ -34,7 +30,6 @@
   --button-border-hover-color: #fb00ce;
   --button-border-selected-color: #fb00ce;
 
-  // Ladder
   --ladder-bg-color: #fb00ce;
   --ladder-bg-promoted-color: #fb00ce;
   --ladder-bg-you-color: #fb00ce;
@@ -42,41 +37,33 @@
   --ladder-text-promoted-color: #fb00ce;
   --ladder-text-you-color: #fb00ce;
 
-  //ETA
   --eta-best-color: #{$color-la-palma};
   --eta-mid-color: var(--main-color);
   --eta-worst-color: #{$color-claret};
 
-  // Chat
   --header-color: #fb00ce;
   --header-font-size: #fb00ce;
   --mod-color: #{$color-medium-red-violet};
 
-  // navbar
   --navbar-bg-color: #fb00ce;
   --navbar-text-color: #fb00ce;
   --offcanvas-background-color: #fb00ce;
 
-  // Link
   --link-hover-color: #fb00ce;
   --link-color: #fb00ce;
 
-  // Scrollbar
   --scrollbar-bg-color: #fb00ce;
   --scrollbar-thumb-color: #fb00ce;
   --scrollbar-thumb-border: 1px solid #fb00ce;
   --scrollbar-thumb-border-color: #fb00ce;
 
-  // Modal
   --modal-bg-color: #fb00ce;
   --modal-text-color: #fb00ce;
   --modal-text-title-color: #fb00ce;
 
-  // Tooltips and Notifications
   --tooltip-background: #fb00ce;
   --tooltip-text: #fb00ce;
 
-  // Overwrite Toastify defaults
   --toastify-color-light: #fb00ce !important;
   --toastify-text-color-light: #fb00ce !important;
   --toastify-color-error: #fb00ce !important;
